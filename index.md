@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+** my first  blog!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+dhanvi
+bme and chemistry major
+class of 2030
+my goal in life is to become a chemical engineer
+i like to listen to music, do taekwondo, go to the gym, playing roblox, go on walks and biking!
+i love chemistry
