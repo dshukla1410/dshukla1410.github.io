@@ -18,6 +18,6 @@ What are current possible treatments?
 Current available treatments include for breast cancer include surgery, radiation, chemotherapy, hormone therapy, targeted drugs, and immunotherapy based on the cancer's stage.
 
 What is the life expectancy?
-Overall, the 5-year survival rate for breast cancer combined over al stages is around 92%.
+Overall, the 5-year survival rate for breast cancer combined over all stages is around 92%.
 
-For a picture: https://www.google.com/search?client=safari&hs=VtGB&sca_esv=619d2c962205eb28&rls=en&sxsrf=APpeQnvDDve2O0O4tGOlnd0X8PCmaEiSWw:1789011648567&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKCPb62Sv4Y60wQDsMxJw_GPIZkctzkqISrBUBua3GiJIjh8IRroSNezMMF2EeDIrdeqPxJKLE5gAlWntdKcZzFinimQ1kkNZhii17g_OZFL_vt7PH0IfcwzGQgTGti-dS26JuZtgycb8sFozIpt6dNXhSeXg&q=breast+cancer+picture&sa=X&ved=2ahUKEwj9-b7ei-OWAxXTj2oFHSYUFBMQtKgLegQIIhAB&biw=574&bih=852&dpr=2#sv=CAMSURoyKhBlLWJfSlEyRzdBbFVERnFNMg5iX0pRMkc3QWxVREZxTToOQWt0T24xekg3SHo5Yk0gBCoXCgFzEhBlLWJfSlEyRzdBbFVERnFNGAEwARgHILCL5N4PSggQARgBIAEoAQ
+For a picture: https://my.clevelandclinic.org/health/diseases/3986-breast-cancer
